@@ -3,5 +3,4 @@ public class first_Class {
     int b;
 
     int c;
-    int d;
 }
